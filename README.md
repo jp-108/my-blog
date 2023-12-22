@@ -1,2 +1,2 @@
-This project has created been created using frontend library ReactJs
+This project has been created using frontend library ReactJs
 
